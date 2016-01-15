@@ -5,7 +5,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 /**
  * Created by jaredramirez on 4/14/15.
- * HELLO IZUKA !!!!!!!
  * i'm sleepy...
  */
 
