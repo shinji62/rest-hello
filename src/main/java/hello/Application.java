@@ -6,7 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 /**
  * Created by jaredramirez on 4/14/15.
  * i'm sleepy...
- * Hi, Iizuka & Mori
+ * Hi, Yuasa, Iizuka & Mori
  */
 
 @SpringBootApplication
