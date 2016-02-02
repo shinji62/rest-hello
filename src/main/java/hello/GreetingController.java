@@ -13,7 +13,7 @@ import java.util.concurrent.atomic.AtomicLong;
 
 @RestController
 public class GreetingController {
-    private static final String template = "morning 2, %s!";
+    private static final String template = "morning 4, %s!";
     private final AtomicLong counter = new AtomicLong();
 
     @RequestMapping(value = "/greeting", method = RequestMethod.GET)
